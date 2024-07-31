@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Perozini</h1>
 <h3 align="center">Currently in the graduation process in Information Systems at the Federal Institute of Education, Science and Technology of São Paulo. Professional experiences in Full Stack with Javascript, PHP and C#.</h3>
 
-- 🔭 I’m currently working on [Snapshot](https://snapshot.reviews/)
-
 - 📫 How to reach me **perozinimagalhesmatheus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
